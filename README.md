@@ -1,8 +1,17 @@
 ### ELISANGELA MEDEIROS
-## Hi there 👋
-Sou uma profissional dedicada, tenho facilidade em assimilar novos conhecimentos e desafios.
-No momento estou cursando engenharia de produção (10º período), desenvolvendo conhecimento em Python, MySQL e  realizando análises de Business inteligence (PBI).  Recentemente, comecei a me interessar pela área de análise de dados e estou estudando constantemente para me tornar cada vez mais qualificada.
+<!-- ## Hi there 👋 -->
+##
+Sou uma profissional dedicada, tenho facilidade em assimilar novos conhecimentos e encarar desafios.
+No momento, estou cursando Engenharia de Produção (10º período). Recentemente, comecei a me interessar pela área de análise de dados e estou estudando constantemente para me tornar cada vez mais qualificada, além de estar me empenhando para aprimorar meu inglês.
 
+#### Atualmente estudando
+<div style="display: inline">
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div> 
+
+          
+          
 <!--
 **elisangela94/elisangela94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
