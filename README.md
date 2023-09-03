@@ -10,6 +10,13 @@ No momento, estou cursando Engenharia de Produção (10º período). Recentement
 <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div> 
 
+##
+ <a href="https://www.linkedin.com/in/elisangela-medeiros-de-oliveira-817600190">
+     <img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>
+
+
+
           
           
 <!--
